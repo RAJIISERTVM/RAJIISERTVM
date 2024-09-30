@@ -29,10 +29,6 @@ I'm currently pursuing a BS-MS at IISER Thiruvananthapuram, specializing in inte
 - "YouTube": [www.youtube.com/@rajiisrit007]() | [Research Vlogs](#)
 - LinkedIn: [RAJ.](#)
 
----
-
-This README gives a well-rounded view of your interests, work, and current projects. You can update links where necessary and adjust the tone based on your style.
-
 <!---
 RAJIISERTVM/RAJIISERTVM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
