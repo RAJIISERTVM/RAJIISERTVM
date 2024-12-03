@@ -13,7 +13,7 @@ I'm currently pursuing a BS-MS at IISER Thiruvananthapuram, specializing in inte
 - Interview series: with IISER TVM alumni, including one of my seniors who is pursuing her PhD at the University of Southampton (UK) and Mnay more like that.
 - Mentoring students and guiding them through their academic journey.
 - Experimenting with research projects in science and innovation.
-- I ma also a Intraday Trader.
+- I am also a Intraday Trader.
   
 <> 🏆 Achievements:
 - Created multiple YouTube videos on IISER counseling, seat allotment, and college preparation tips.
